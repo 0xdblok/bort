@@ -14,7 +14,7 @@ export default function Hero() {
         <div className="pt-6 flex justify-center">
           {" "}
           <a
-            href="https://t.me/BORTonsolana"
+            href="https://pump.fun/Cpx1BY6X6XGLbwfrYp1izMq2tZsJXEwJG7mrvZrNpump"
             className="px-6 py-2 mt-8 font-semibold rounded text-sm outline-none border-2 border-[#333] hover:bg-[#C40322] hover:text-white  transition-all duration-300">
             Buy Now
           </a>

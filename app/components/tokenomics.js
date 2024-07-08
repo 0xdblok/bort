@@ -20,7 +20,9 @@ export default function Tokenomics() {
         </div>
         <div className="pt-10  text-center   text-white">
           <p className=" tracking-[.08em] font-bold">Contract Address</p>
-          <p className=" tracking-[.08em]">TBA</p>
+          <p className=" tracking-[.08em]">
+            Cpx1BY6X6XGLbwfrYp1izMq2tZsJXEwJG7mrvZrNpump
+          </p>
         </div>
       </div>
     </div>
