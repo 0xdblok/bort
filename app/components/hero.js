@@ -7,13 +7,13 @@ export default function Hero() {
       <div class="max-md:order-1 max-md:text-center">
         <h3 class="md:text-3xl text-2xl md:leading-10">BORT SEMPSON</h3>
         <p class="mt-4 text-sm">
-          Laboris qui Lorem ad tempor ut reprehenderit. Nostrud anim nulla
-          officia ea sit deserunt. Eu eu quis anim aute Laboris qui Lorem ad
-          tempor ut reprehenderit.
+          Launching $BORT SOON ON PUMP FUN AND GET IN TO OUT CHAT 💬 TG CHAT
         </p>
         <div className="pt-6 flex justify-center">
           {" "}
-          <a class="px-6 py-2 mt-8 font-semibold rounded text-sm outline-none border-2 border-[#333] hover:bg-[#333] hover:text-white  transition-all duration-300">
+          <a
+            href="https://t.me/BORTonsolana"
+            className="px-6 py-2 mt-8 font-semibold rounded text-sm outline-none border-2 border-[#333] hover:bg-[#333] hover:text-white  transition-all duration-300">
             Buy Now
           </a>
         </div>
