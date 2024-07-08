@@ -15,7 +15,7 @@ export default function Hero() {
           {" "}
           <a
             href="https://t.me/BORTonsolana"
-            className="px-6 py-2 mt-8 font-semibold rounded text-sm outline-none border-2 border-[#333] hover:bg-[#333] hover:text-white  transition-all duration-300">
+            className="px-6 py-2 mt-8 font-semibold rounded text-sm outline-none border-2 border-[#333] hover:bg-[#C40322] hover:text-white  transition-all duration-300">
             Buy Now
           </a>
         </div>
