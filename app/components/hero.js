@@ -5,8 +5,10 @@ export default function Hero() {
   return (
     <div class="grid md:grid-cols-2 items-center md:gap-4 gap-8  text-[#333] max-w-5xl max-md:max-w-md mx-auto pt-12">
       <div class="max-md:order-1 max-md:text-center">
-        <h3 class="md:text-3xl text-2xl md:leading-10">BORT SEMPSON</h3>
-        <p class="mt-4 text-sm">
+        <h3 class="md:text-3xl text-2xl md:leading-10 font-bold">
+          BORT SEMPSON
+        </h3>
+        <p class="mt-4 text-sm font-semibold">
           Launching $BORT SOON ON PUMP FUN AND GET IN TO OUT CHAT 💬 TG CHAT
         </p>
         <div className="pt-6 flex justify-center">
